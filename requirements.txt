@@ -1,6 +1,6 @@
 
 langgraph
-langchain==0.0.321
+langchain==0.0.281
 langchain-community
 python-dotenv
 fastapi
@@ -13,7 +13,7 @@ pytz
 loguru
 uvicorn[standard]
 python-multipart
-langchain_experimental
+langchain-experimental==0.0.16
 pydantic[email]
 python_jose==3.3.0
 pillow
