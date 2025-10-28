@@ -1,6 +1,6 @@
 
 langgraph
-langchain
+langchain>=0.0.321
 langchain-community
 python-dotenv
 fastapi
